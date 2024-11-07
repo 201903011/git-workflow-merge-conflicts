@@ -1,5 +1,5 @@
 Core product 
 additional feature
-
+fixing bug
 
 V1.0.0
