@@ -1,4 +1,5 @@
 Core product 
+feature info
 additional feature
 
 
